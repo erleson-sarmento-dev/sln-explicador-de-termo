@@ -1,0 +1,1 @@
+# sln-explicador-de-termo
